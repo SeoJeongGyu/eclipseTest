@@ -11,6 +11,8 @@ public class SayHello {
 		System.out.println("로컬수정");
 
 		System.out.println("원격수정");
+		
+		System.out.println("net net net");
 
 	}
 
